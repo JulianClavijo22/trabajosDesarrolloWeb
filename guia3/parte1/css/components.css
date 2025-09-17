@@ -1,0 +1,59 @@
+/*Estilos para el componente header*/
+.app-header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+.app-header nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.app-header nav a:hover {
+    text-decoration: underline;
+}
+
+/*Estilos para el componente footer*/
+footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 1rem;
+  margin-top: 40px;
+}
+
+footer nav {
+  margin-top: 10px;
+}
+
+footer nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+footer nav a:hover {
+  color: #ffd700;
+}
+
+/*estilos para el content*/
+.app-content {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+}
+
+.app-content h1 {
+    color: #1e3a8a;
+    margin-bottom: 10px;
+    margin: 0;
+    font-size: 18px;
+}   
+
